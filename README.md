@@ -2,8 +2,6 @@
 
 I am a QA Automation Engineer with a strong focus on testing and automation for web applications and payment systems. My experience includes designing and implementing automated tests to ensure software quality and reliability.
 
-I am a QA Automation Engineer with a strong focus on testing and automation for web applications and payment systems. My experience includes designing and implementing automated tests to ensure software quality and reliability.
-
 ## Key Projects
 
 | Project Title                                                             | Description                                                                                                                                          |
