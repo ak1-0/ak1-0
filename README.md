@@ -17,3 +17,7 @@ I am a QA Automation Engineer with a strong focus on testing and automation for 
 - **Testing Frameworks:** Pytest, Selenium
 - **Tools:** Docker, GitLab CI/CD, JMeter
 - **Databases:** PostgreSQL
+
+- [Stripe Payment System Project](https://github.com/ak1-0/pinax-stripe-payments-test)
+
+- [Stripe Payment System Project(https://github.com/ak1-0/pinax-stripe-payments-test)](https://github.com/ak1-0/pinax-stripe-payments-test)
