@@ -13,5 +13,5 @@
 ## Tech Stack
 - **Languages:** Python
 - **Testing Frameworks:** Pytest, Selenium
-- **Tools:** Docker, GitLab CI/CD, JMeter
+- **Tools:** Docker, GitHub CI/CD, JMeter
 - **Databases:** PostgreSQL
