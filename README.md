@@ -9,6 +9,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="15" height="15" style="vertical-align: middle;"> QA Engineer  
+✨QA Engineer  
 🐍Python  
 🔥Passionate about testing  
