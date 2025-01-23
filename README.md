@@ -9,7 +9,8 @@
 
 
 
-![Python](https://img.shields.io/badge/python-3.9-blue.svg)
-![Java](https://img.shields.io/badge/java-11-orange.svg)
-![C#](https://img.shields.io/badge/C%23-.NET%20Core-blue.svg)
-![Docker](https://img.shields.io/badge/docker-20.10-blue.svg)
+- ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
+- ![Java](https://img.shields.io/badge/Java-11-orange.svg)
+- ![C#](https://img.shields.io/badge/C%23-ASP.NET-blue.svg)
+- ![Docker](https://img.shields.io/badge/Docker-20.10-blue.svg)
+- ![CI/CD](https://img.shields.io/badge/CI%2FCD-passing-brightgreen.svg)
