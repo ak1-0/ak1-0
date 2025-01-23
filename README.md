@@ -9,6 +9,7 @@
 
 
 
-✨QA Engineer  
-🐍Python  
-🔥Passionate about testing  
+![Python](https://img.shields.io/badge/python-3.9-blue.svg)
+![Java](https://img.shields.io/badge/java-11-orange.svg)
+![C#](https://img.shields.io/badge/C%23-.NET%20Core-blue.svg)
+![Docker](https://img.shields.io/badge/docker-20.10-blue.svg)
